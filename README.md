@@ -8,9 +8,9 @@
 - When I'm not debugging hardware, I enjoy training Muay Thai, watching movies/sports, and travelling
 
 ## Work Experience
-- Firmware Developer Intern at Blackline Safety (Fall 2024)
-- Embedded Systems Engineering Intern at Canadensys Aerospace (Winter 2024)
-- Electrical Engineering Intern at Martinrea International (Summer 2023)
+- Firmware Developer Intern at [Blackline Safety](https://www.blacklinesafety.com/) (Fall 2024)
+- Embedded Systems Engineering Intern at [Canadensys Aerospace](https://www.canadensys.com/) (Winter 2024)
+- Electrical Engineering Intern at [Martinrea International](https://www.martinrea.com/) (Summer 2023)
 
 ## Reach out to me! 
 - Linkedin: https://www.linkedin.com/in/deluchian/
