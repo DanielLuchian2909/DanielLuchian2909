@@ -2,7 +2,7 @@
 
 ## About me 
 - Junior at the University of Waterloo studying Mechatronics Engineering
-- Interested in all aspects of embedded systems, from bare-metal programming to modern Linux-based systems supporting IoT
+- Interested in all aspects of embedded and systems software, from bare-metal programming to modern Linux-based systems supporting IoT
 - Hoping to gain more experience in controls and ML and apply them to embedded systems
 
 ## Work Experience
