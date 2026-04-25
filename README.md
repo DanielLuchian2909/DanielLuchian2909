@@ -7,7 +7,7 @@
 
 ## Work Experience
 - Middleware Software Intern at [Figure AI](https://www.figure.ai/) (Incoming Winter 2026)
-- Embedded Computer Vision Intern at [Magna International](https://www.magna.com/) (Summer 2025) 
+- Computer Vision Software Intern at [Magna International](https://www.magna.com/) (Summer 2025) 
 - Firmware Developer Intern at [Blackline Safety](https://www.blacklinesafety.com/) (Fall 2024)
 - Embedded Systems Engineering Intern at [Canadensys Aerospace](https://www.canadensys.com/) (Winter 2024)
 - Controls Software Intern at [Martinrea International](https://www.martinrea.com/) (Summer 2023)
